@@ -28,7 +28,11 @@ main {
 }
 
 .card {
+<<<<<<< HEAD
     width: 320px;     
+=======
+    width: 320px;    
+>>>>>>> 90d6c0c81e6be5a7d752f6321fbd7853da00bed5
     border-radius: 20px;
     background-color: var(--Very-dark-blue-card-BG);
     display: grid;
