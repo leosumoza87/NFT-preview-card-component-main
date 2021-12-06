@@ -33,7 +33,6 @@ main {
     background-color: var(--Very-dark-blue-card-BG);
     display: grid;
     flex-direction: column; 
-    shadow   
 }
 
 .card-equilibrium-img {
